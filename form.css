@@ -1,0 +1,25 @@
+body{
+    background:url("https://i.pinimg.com/originals/48/a4/13/48a4133d99509e5861eaf7e7243f2012.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+.regform{
+    text-align: center;
+    width: 700px;
+    margin:30px auto;
+    background-color: rgba(17, 16, 16, 0.363);
+    background-position: center;
+    color: rgb(247, 247, 247);
+    padding: 40px 60px 60px;
+    font-size:11x;
+}
+.textlabel{
+    display:block;
+    border-radius:8px;
+}
+.input{
+    font-size: 1em;
+    padding:auto;
+}

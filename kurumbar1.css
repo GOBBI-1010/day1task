@@ -1,0 +1,65 @@
+h3{
+    color:rgb(1, 94, 5)
+}
+#THANK{ 
+    color: rgb(0, 97, 0);
+    font-size: larger;
+    font-style:normal;
+    text-overflow: inherit;
+    text-shadow:2px;
+}
+div p{
+    color:rgb(146, 0, 0)
+}
+div a{
+    color:rgb(117, 52, 5)
+}
+h1{
+    background-color: yellow
+}
+body{
+    background-color:white;
+}
+div
+{
+    font-weight:bolder;
+    font-style:normal;
+    font-stretch:condensed;
+    text-decoration:underline;
+}
+#histroy{
+    line-height:1.5em;
+    text-indent:50px;
+    text-align:justify;
+}
+#histroy:first-letter{
+    font-size:2em;
+}
+a:visited{
+color:blue;
+}
+a:link{
+    color:red;
+}
+a:hover{
+    color:rgb(255, 0, 0);
+}
+a:active{
+    color:black;
+}
+p[id^=h]{
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large;
+    color:rgb(22, 114, 5);
+    border:1px dotted black;
+    background-color: #fcf803;
+    max-height:100px;
+    overflow: scroll;
+    padding:20px;
+    margin:20px;
+}
+li{
+    display:inline;
+    margin:1px;
+    text-align:center;
+}
